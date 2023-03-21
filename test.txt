@@ -1,0 +1,12 @@
+.
+..
+Makefile
+gbsh
+gbsh.c
+gbsh.cpp
+gbsh.o
+launch-shell
+launch-shell.sh
+test.txt
+wc-test-txt
+wc-test.txt

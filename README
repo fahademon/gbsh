@@ -1,0 +1,5 @@
+gbsh
+
+This is a custom shell made for Linux based systems. It can accomplish most things the standard bash shell is able to, and is easily modifiable for additional functionality.
+
+Launch shell by running chmod +x launch-shell.sh and ./launch-shell.sh, or just bash launch-shell.sh. It can also be compiled and launched as a standard C++ program, but using it this way may resut in certain missing features and safeguards.
